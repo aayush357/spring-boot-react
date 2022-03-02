@@ -1,0 +1,1 @@
+insert into resource(resource_id, avaialability, resource_name) values (3, 1, "abc"), (4, 1, "xyz"), (5, 0, "mno");
